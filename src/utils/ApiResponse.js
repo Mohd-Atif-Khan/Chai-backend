@@ -7,3 +7,6 @@ this.statusCode = statusCode;
         this.errors = [];
     }
 }
+
+
+export {ApiResponse};
